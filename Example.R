@@ -3,3 +3,4 @@ This is a sample document for a GitHub tutorial
 
 Did I change it? Raisa
 Test-Megan
+How to open it in R? Anna
